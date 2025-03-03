@@ -11,7 +11,7 @@ import sunny from "./img/sunny.jpg";
 import thunderstorm from "./img/thunderstorm.jpg";
 
 const weatherApi = {
-  key: "b0e15126898d0523d11db8034b506933",
+  key: "secret",
   baseUrl: "https://api.openweathermap.org/data/2.5/weather",
 };
 
